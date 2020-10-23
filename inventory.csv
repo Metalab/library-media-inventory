@@ -699,19 +699,35 @@
 "2600 – 21/01",,,"Fachbuch IT",2004,"2615 Enterprises Inc.",,"07493851",,"Zeitschrift","Ja",,,"Hauptstelle Metalab"
 "Giles 94 Classics",,,"Comic",1993,"Pedigree Books Limited",9781874507154,,,"Buch","Ja",,,"Hauptstelle Metalab"
 "Wer nichts weiss, muss alles glauben","Werner","Gruber","Fachbuch Naturwissenschaften",2010,"Ecowin Verlag",9783902404930,,,"Buch","Ja",,,"Hauptstelle Metalab"
-"The Art of Computer Programming","Donald","Knuth","Fachbuch IT",2005,"Addison-Wesley","0201896842",,,,,,,
-"LISP","Patrick","Winston","Fachbuch IT",1984,"Addison-Wesley","0201083728",,,,,,,
-"Foundations of Agile Python Development","Jeffrey","Younker","Fachbuch IT",2008,"Springer-Verlag New York Incorporated",9781590599815,,,,,,,
-"Kodex Wehrrecht","Werner","Doralt","Fachbuch Recht",2019,"LexisNexis Verlag ARD Orac GmbH & Co KG",9783700772286,,,,,,,
-"Python in Practice","Mark","Summerfield","Fachbuch IT",2014,"Qtrac Ltd",9780321905635,,,,,,,
-"PyQt und PySide","Peter","Bouda","Fachbuch IT",2012,"Open Source Press",9783941841505,,,,,,,
-"Game Programming Genus 3","Dante","Treglia","Fachbuch IT",2002,"Charles River Media, Inc.",9781584502333,,,,,,,
-"Transmetropolian Years of the Bastard","Marren","Ellis","Comic",1999,"DC Comics",1563895684,,,,,,,
-"Lex & yakk","Helmut","Herold","Fachbuch IT",2003,"Addison-Wesley",9783827320964,,,,,,,
-"Hinweise für die Anwendung von Entscheidungs- und Optimierungsmethoden im Verkehrswesen",,"Keller","Fachbuch Diverse",1982,"Forschungsgesellschaft für Straßen- und Verkehrswesen",,,,,,,,
-"Programming in C","Stephen","Kochan","Fachbuch IT",1991,"Hayden Book Company",,,,,,,,
-"Marken – Labels – Brands","Martin","Baltes","Fachbuch Diverse",2004,"Orange-press",3936086192,,,,,,,
-"Modern C++ Design","Andrei","Alexandrescu","Fachbuch IT",2001,"Addison-Wesley",9780201704310,,,,,,,
-"Das Gespräch der Therapie","Hermann","Lang","Fachbuch Naturwissenschaften",2000,"Suhrkamp Verlag",9783518288931,,,,,,,
-"Professionelle Schaltungstechnik","Dieter","Nührmann","Fachbuch Elektronik",1989,"Franzis Verlag",3772367127,,,,,,,
-"Fuzzy-Logik und Fuzzy-Control","Georg","Jaanineh","Fachbuch Elektronik",1996,"Vogel",3802315359,,,,,,,
+"The Art of Computer Programming","Donald","Knuth","Fachbuch IT",2005,"Addison-Wesley","0201896842",,,"Buch","Ja",,,"Hauptstelle Metalab"
+"LISP","Patrick","Winston","Fachbuch IT",1984,"Addison-Wesley","0201083728",,,"Buch","Ja",,,"Hauptstelle Metalab"
+"Foundations of Agile Python Development","Jeffrey","Younker","Fachbuch IT",2008,"Springer-Verlag New York Incorporated",9781590599815,,,"Buch","Ja",,,"Hauptstelle Metalab"
+"Kodex Wehrrecht 2019","Werner","Doralt","Fachbuch Recht",2019,"LexisNexis Verlag ARD Orac GmbH & Co KG",9783700772286,,,"Buch","Ja",,,"Hauptstelle Metalab"
+"Python in Practice","Mark","Summerfield","Fachbuch IT",2014,"Qtrac Ltd",9780321905635,,,"Buch","Ja",,,"Hauptstelle Metalab"
+"PyQt und PySide","Peter","Bouda","Fachbuch IT",2012,"Open Source Press",9783941841505,,,"Buch","Ja",,,"Hauptstelle Metalab"
+"Game Programming Genus 3","Dante","Treglia","Fachbuch IT",2002,"Charles River Media, Inc.",9781584502333,,,"Buch","Ja",,,"Hauptstelle Metalab"
+"Transmetropolian Years of the Bastard","Marren","Ellis","Comic",1999,"DC Comics",1563895684,,,"Buch","Ja",,,"Hauptstelle Metalab"
+"Lex & yakk","Helmut","Herold","Fachbuch IT",2003,"Addison-Wesley",9783827320964,,,"Buch","Ja",,,"Hauptstelle Metalab"
+"Hinweise für die Anwendung von Entscheidungs- und Optimierungsmethoden im Verkehrswesen",,"Keller","Fachbuch Diverse",1982,"Forschungsgesellschaft für Straßen- und Verkehrswesen",,,,"Buch","Ja",,,"Hauptstelle Metalab"
+"Programming in C","Stephen","Kochan","Fachbuch IT",1991,"Hayden Book Company",,,,"Buch","Ja",,,"Hauptstelle Metalab"
+"Marken – Labels – Brands","Martin","Baltes","Fachbuch Diverse",2004,"Orange-press",3936086192,,,"Buch","Ja",,,"Hauptstelle Metalab"
+"Modern C++ Design","Andrei","Alexandrescu","Fachbuch IT",2001,"Addison-Wesley",9780201704310,,,"Buch","Ja",,,"Hauptstelle Metalab"
+"Das Gespräch der Therapie","Hermann","Lang","Fachbuch Naturwissenschaften",2000,"Suhrkamp Verlag",9783518288931,,,"Buch","Ja",,,"Hauptstelle Metalab"
+"Professionelle Schaltungstechnik","Dieter","Nührmann","Fachbuch Elektronik",1989,"Franzis Verlag",3772367127,,,"Buch","Ja",,,"Hauptstelle Metalab"
+"Fuzzy-Logik und Fuzzy-Control","Georg","Jaanineh","Fachbuch Elektronik",1996,"Vogel",3802315359,,,"Buch","Ja",,,"Hauptstelle Metalab"
+"Kodex Besonderes Verwaltungsrecht 2020","Werner","Doralt","Fachbuch Recht",2020,"LexisNexis Verlag ARD Orac GmbH & Co KG",9783700776376,,,"Buch","Ja",,,"Hauptstelle Metalab"
+"Rich-Client-Entwicklung mit Eclipse 3.3","Berthold","Daum","Fachbuch IT",2008,"dpunkt.verlag GmbH",9783898645034,,,"Buch","Ja",,,"Hauptstelle Metalab"
+"Modern Operating Systems","Andrew","Tanenbaum","Fachbuch IT",2001,"Prentice-Hall, Inc.",9780130926418,,,"Buch","Ja",,,"Hauptstelle Metalab"
+"Computer Architecture","John","Hennessy","Fachbuch IT",2003,"Morgan Kaufmann Publishers",1558607242,,,"Buch","Ja",,,"Hauptstelle Metalab"
+"Computer Organization & Design","David","Patterson","Fachbuch IT",1994,"Morgan Kaufmann Publishers",9781558602823,,,"Buch","Ja",,,"Hauptstelle Metalab"
+"Computer Organization & Design","David","Patterson","Fachbuch IT",1998,"Morgan Kaufmann Publishers",9781558604919,,,"Buch","Ja",,,"Hauptstelle Metalab"
+"Dynamic HTML","Danny","Goodman","Fachbuch IT",2002,"O'Reilly",9780596003166,,,"Buch","Ja",,,"Hauptstelle Metalab"
+"Praxisleitfaden Compliance","Roman","Sartor","Fachbuch Wirtschaft",2015,"LexisNexis Verlag ARD Orac GmbH & Co KG",9783700760351,,,"Buch","Ja",,,"Hauptstelle Metalab"
+"Munin","Gabriele","Pohl","Fachbuch IT",2008,"Open Source Press",9783937514482,,,"Buch","Ja",,,"Hauptstelle Metalab"
+"MySQL","Rolf","Däßler","Fachbuch IT",2001,"verlag moderne industrie Buch AG & Co KG",9783826670213,,,"Buch","Ja",,,"Hauptstelle Metalab"
+"Elektromagnetische Wandler und Sensoren","W.","Cassing","Fachbuch Elektronik",1989,"expert verlag",3816901573,,,"Buch","Ja",,,"Hauptstelle Metalab"
+"The TTL Data Book",,,"Fachbuch Elektronik",1986,,"090404727X",,,"Buch","Ja",,,"Hauptstelle Metalab"
+"JavaScript","David","Flanagan","Fachbuch IT",2002,"O'Reilly",9780596000486,,,"Buch","Ja",,,"Hauptstelle Metalab"
+"DOM Scripting","Jeremy","Keith","Fachbuch IT",2005,"Springer-Verlag New York Incorporated",9781590595336,,,"Buch","Ja",,,"Hauptstelle Metalab"
+"Java Micro Edition","Klaus-Dieter","Schmatz","Fachbuch IT",2007,"dpunkt.verlag GmbH",9783898644181,,,"Buch","Ja",,,"Hauptstelle Metalab"
+"Kodex EU-Chemikalienrecht 2019","Werner","Doralt","Fachbuch Recht",2019,"LexisNexis Verlag ARD Orac GmbH & Co KG",9783700772637,,,"Buch","Ja",,,"Hauptstelle Metalab"
