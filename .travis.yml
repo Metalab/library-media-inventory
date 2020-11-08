@@ -7,3 +7,14 @@ install:
 
 script:
   - $(npm bin)/csval inventory.csv rules.json
+
+deploy:
+  provider: pages
+  token: $GITHUB_TOKEN
+  keep_history: true
+  strategy: git
+  edge: true
+  target_branch: gh-pages
+  committer_from_gh: true
+  on:
+    branch: main
