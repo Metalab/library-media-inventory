@@ -1,0 +1,107 @@
+{
+  "properties": {
+    "name": {
+      "type": "string",
+      "minLength": 2
+    },
+    "authorFirstName": {
+      "type": "string",
+      "minLength": 0
+    },
+    "authorLastName": {
+      "type": "string",
+      "minLength": 0
+    },
+    "category": {
+      "type": "string",
+      "minLength": 5
+    },
+    "year": {
+      "oneOf": [
+          {
+            "type": "integer",
+            "max": 2021
+          }, {
+            "type": "string",
+            "minLength": 0
+          }
+       ]
+    },
+    "publisher": {
+      "type": "string",
+      "minLength": 0
+    },
+    "isbn": {
+      "oneOf": [
+          {
+            "type": "string",
+            "pattern": "^(97(8|9))?[0-9]{9}([0-9]|X)$"
+          }, {
+            "type": "string",
+            "minLength": 0,
+            "maxLength": 13
+          }
+       ]
+    },
+    "issn": {
+      "oneOf": [
+          {
+            "type": "string",
+            "pattern": "^[0-9][0-9][0-9][0-9][0-9][0-9][0-9][X0-9]$"
+          }, {
+            "type": "string",
+            "minLength": 0,
+            "maxLength": 7
+          }
+       ]
+    },
+    "otherIdentifier": {
+      "type": "string",
+      "minLength": 0
+    },
+    "mediaType": {
+      "type": "string",
+      "enum": [
+        "Buch",
+        "Zeitschrift",
+        "Audio CD"
+      ]
+    },
+    "isLendable": {
+      "type": "string",
+      "enum": [
+        "Ja",
+        "Nein"
+      ]
+    },
+    "isMetalabPickupPossible": {
+      "oneOf": [
+          {
+            "type": "string",
+            "enum": [
+              "Ja",
+              "Nein"
+            ]
+          }, {
+            "type": "string",
+            "minLength": 0
+          }
+       ]
+    },
+    "itemBarcode": {
+      "type": "string",
+      "pattern": "^META-B[0-9]{1,10}$"
+    },
+    "location": {
+      "type": "string",
+      "enum": [
+        "Außenstelle Brigittenau I",
+        "Hauptstelle Metalab",
+        "Außenstelle Waffelkollektiv",
+        "Außenstelle Ottakring",
+        "Außenstelle nospace"
+      ]
+    }
+  },
+  "required": ["name", "authorFirstName", "authorLastName", "category", "mediaType", "isLendable", "itemBarcode", "location"]
+}
