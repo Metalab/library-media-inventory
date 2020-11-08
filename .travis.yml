@@ -1,0 +1,9 @@
+dist: focal
+language: node_js
+os: linux
+
+install:
+  - npm install
+
+script:
+  - $(npm bin)/csval inventory.csv rules.json
