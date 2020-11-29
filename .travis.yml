@@ -9,7 +9,7 @@ install:
 
 script:
   - $(npm bin)/csval inventory.csv rules.json
-  - ./trigger-build.sh
+  - ./trigger-build.sh $TRAVIS_TOKEN
 
 deploy:
   provider: pages
