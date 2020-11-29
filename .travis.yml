@@ -9,6 +9,7 @@ install:
 
 script:
   - $(npm bin)/csval inventory.csv rules.json
+  - ./trigger-build.sh
 
 deploy:
   provider: pages
